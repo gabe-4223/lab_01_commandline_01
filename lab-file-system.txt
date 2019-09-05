@@ -263,7 +263,7 @@ rmdir
 ==========
 25. What command is used to print out your current working directory?
 ---------
-p
+pwd
 
 
 
